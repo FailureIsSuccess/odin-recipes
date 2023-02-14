@@ -1,0 +1,1 @@
+Creating a recipe website with a main index page that contains links to recipes
